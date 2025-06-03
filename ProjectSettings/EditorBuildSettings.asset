@@ -5,14 +5,14 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: Assets/VR Beginner/Scenes/Final/EscapeRoom.unity
-    guid: 0f290611f0f8be4419d06b71aba4e36a
+  - enabled: 1
+    path: Assets/_Test/Scenes/GrabTest.unity
+    guid: 6e8cf88f88e5fa349b87c18fd2fe1c1d
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 398d945149746a94899cafbfeddf8c9f,
       type: 2}
-    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: a422e2a2e6c83184e9b23d6413331359,
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 657e00a8b9bbd7a47b565bef46ba4bd8,
       type: 2}
-    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 07a9ee58a0c074c428efff65c5a4f857,
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 3992f3dd3fbb50e4d90b22d9858b21b7,
       type: 2}
   m_UseUCBPForAssetBundles: 0
