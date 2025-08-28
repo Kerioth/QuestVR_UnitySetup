@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7fe6c4d6f52c1b44fac96d43980c8b4e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 176930
+  packageName: VR Desktop Camera
+  packageVersion: 1.1
+  assetPath: Assets/VRDesktopCamera/VRDesktopCamera.cs
+  uploadId: 672115

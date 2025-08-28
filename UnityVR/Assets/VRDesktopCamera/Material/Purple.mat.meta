@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7b8fc0456c4a58640a2295fefca6135d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 176930
+  packageName: VR Desktop Camera
+  packageVersion: 1.1
+  assetPath: Assets/VRDesktopCamera/Material/Purple.mat
+  uploadId: 672115

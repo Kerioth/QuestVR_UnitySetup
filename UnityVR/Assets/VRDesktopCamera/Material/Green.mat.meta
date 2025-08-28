@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c033b2ef7816e63418642389a0620c87
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 176930
+  packageName: VR Desktop Camera
+  packageVersion: 1.1
+  assetPath: Assets/VRDesktopCamera/Material/Green.mat
+  uploadId: 672115

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6463124162c65d24dba20e19c28e8c41
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 176930
+  packageName: VR Desktop Camera
+  packageVersion: 1.1
+  assetPath: Assets/VRDesktopCamera/Material/Blue.mat
+  uploadId: 672115

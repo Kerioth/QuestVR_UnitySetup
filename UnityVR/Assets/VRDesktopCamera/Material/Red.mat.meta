@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 33dde1ca32b86a041ba0a52a340925be
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 176930
+  packageName: VR Desktop Camera
+  packageVersion: 1.1
+  assetPath: Assets/VRDesktopCamera/Material/Red.mat
+  uploadId: 672115

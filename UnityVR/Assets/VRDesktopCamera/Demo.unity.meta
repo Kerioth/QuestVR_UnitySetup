@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9316f45bf90519347a148e1eb5426496
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 176930
+  packageName: VR Desktop Camera
+  packageVersion: 1.1
+  assetPath: Assets/VRDesktopCamera/Demo.unity
+  uploadId: 672115

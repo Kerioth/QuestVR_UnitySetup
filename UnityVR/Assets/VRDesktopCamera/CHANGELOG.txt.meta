@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d5e0f6dca94f61b4c8e4c59fddf8131b
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 176930
+  packageName: VR Desktop Camera
+  packageVersion: 1.1
+  assetPath: Assets/VRDesktopCamera/CHANGELOG.txt
+  uploadId: 672115
