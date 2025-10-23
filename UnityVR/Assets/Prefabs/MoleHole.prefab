@@ -209,8 +209,20 @@ PrefabInstance:
       value: Confetti
       objectReference: {fileID: 0}
     - target: {fileID: 6616299832780529061, guid: 12563416f65b2465c96f7b36fbe2a865, type: 3}
+      propertyPath: InitialModule.startSpeed.scalar
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6616299832780529061, guid: 12563416f65b2465c96f7b36fbe2a865, type: 3}
+      propertyPath: InitialModule.startLifetime.scalar
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 6616299832780529061, guid: 12563416f65b2465c96f7b36fbe2a865, type: 3}
+      propertyPath: InitialModule.startLifetime.minScalar
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6616299832780529061, guid: 12563416f65b2465c96f7b36fbe2a865, type: 3}
       propertyPath: InitialModule.startColor.maxGradient.ctime0
-      value: 10601
+      value: 7517
       objectReference: {fileID: 0}
     - target: {fileID: 6616299832780529061, guid: 12563416f65b2465c96f7b36fbe2a865, type: 3}
       propertyPath: InitialModule.startColor.maxGradient.ctime1
@@ -218,27 +230,27 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6616299832780529061, guid: 12563416f65b2465c96f7b36fbe2a865, type: 3}
       propertyPath: InitialModule.startColor.maxGradient.key1.b
-      value: 0.82001096
+      value: 0.8298994
       objectReference: {fileID: 0}
     - target: {fileID: 6616299832780529061, guid: 12563416f65b2465c96f7b36fbe2a865, type: 3}
       propertyPath: InitialModule.startColor.maxGradient.key1.g
-      value: 0.47592562
+      value: 0.2747419
       objectReference: {fileID: 0}
     - target: {fileID: 6616299832780529061, guid: 12563416f65b2465c96f7b36fbe2a865, type: 3}
       propertyPath: InitialModule.startColor.maxGradient.key1.r
-      value: 0.8773585
+      value: 0.9245283
       objectReference: {fileID: 0}
     - target: {fileID: 6616299832780529061, guid: 12563416f65b2465c96f7b36fbe2a865, type: 3}
       propertyPath: InitialModule.startColor.maxGradient.key2.b
-      value: 0.97566557
-      objectReference: {fileID: 0}
-    - target: {fileID: 6616299832780529061, guid: 12563416f65b2465c96f7b36fbe2a865, type: 3}
-      propertyPath: InitialModule.startColor.maxGradient.key2.g
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6616299832780529061, guid: 12563416f65b2465c96f7b36fbe2a865, type: 3}
-      propertyPath: InitialModule.startColor.maxGradient.key2.r
+      propertyPath: InitialModule.startColor.maxGradient.key2.g
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6616299832780529061, guid: 12563416f65b2465c96f7b36fbe2a865, type: 3}
+      propertyPath: InitialModule.startColor.maxGradient.key2.r
+      value: 0.968729
       objectReference: {fileID: 0}
     - target: {fileID: 6616299832780529061, guid: 12563416f65b2465c96f7b36fbe2a865, type: 3}
       propertyPath: InitialModule.startColor.maxGradient.m_ColorSpace

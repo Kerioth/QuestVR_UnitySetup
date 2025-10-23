@@ -66,13 +66,13 @@ Material:
     - _GridRotation: 0
     - _Grid_Line_X_Width: 0.9
     - _Grid_Line_Y_Width: 0.9
-    - _Metallic: 0.3
+    - _Metallic: 0.46
     - _Parallax_Distance: -0.3
     - _Parallax_Offset: -0.3
     - _QueueControl: 0
     - _QueueOffset: 0
     - _ReceiveShadows: 1
-    - _Smoothness: 0.91
+    - _Smoothness: 0.402
     - _SrcBlend: 1
     - _Surface: 0
     - _USETEXTUREBOOL: 1

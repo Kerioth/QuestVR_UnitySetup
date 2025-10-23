@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
+using UnityEngine.SceneManagement;
 
 public class HitMoleGame : MonoBehaviour
 {
@@ -33,6 +34,11 @@ public class HitMoleGame : MonoBehaviour
     {
         downMolesHoles = new List<MoleHole>(allMoleHoles);
         OnStart?.Invoke();
+    }
+
+    public void RestartGame()
+    {
+        SceneManager.LoadScene(0);
     }
 
     public async void StartGame()
