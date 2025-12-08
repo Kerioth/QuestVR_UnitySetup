@@ -11,7 +11,11 @@ MonoBehaviour:
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
   m_Name: 
+<<<<<<<< HEAD:UnityVR/Assets/Prefabs/Materials/Material.mat
   m_EditorClassIdentifier: Unity.RenderPipelines.Universal.Editor::UnityEditor.Rendering.Universal.AssetVersion
+========
+  m_EditorClassIdentifier: 
+>>>>>>>> 64151052428338e29818db56c7d5fdfbea122657:UnityVR/Assets/Art/AurynSky/Arcade Pack 01/Materials/Material.mat
   version: 10
 --- !u!21 &2100000
 Material:
@@ -26,7 +30,11 @@ Material:
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
   m_InvalidKeywords: []
+<<<<<<<< HEAD:UnityVR/Assets/Prefabs/Materials/Material.mat
   m_LightmapFlags: 4
+========
+  m_LightmapFlags: 7
+>>>>>>>> 64151052428338e29818db56c7d5fdfbea122657:UnityVR/Assets/Art/AurynSky/Arcade Pack 01/Materials/Material.mat
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
   m_CustomRenderQueue: -1
